@@ -1,29 +1,30 @@
 # Portfolio
 
-Este é um projeto de um portfóliio pessoal. Este projeto foi feito com HTML, CSS, JavaScript e Bootstrap, com o objetivo de mostrar meu trabalho, habilidades e experiências de uma maneira apreciável e impactante.
+This is a personal portfolio project. This project was created using HTML, CSS, JavaScript, and Bootstrap, with the goal of showcasing my work, skills, and experiences in an engaging and impactful way.
 
-## Como acessar
+## How to access
 
-1.  Abra o arquivo `index.html` em um navegador ou acesse o [site]().
-2.  Explore as seções da página para conhecer um pouco do meu trabalho.
+1. Open the `index.html` file in a browser or access the [site]().
+2. Explore the page excerpts to learn a little about my work.
 
-## Funcionalidades
+## Features
 
-* Apresentação breve sobre o autor.
-* Galeria de projetos desenvolvidos.
-* Informações para contato através de um formulário ou links para redes sociais.
+* Brief presentation about the author.
+* Gallery of developed projects.
+* Contact information via a form or links to social media.
 
-## Tecnologias utilizadas
+## Technologies Used
 
 * HTML
 * CSS
 * JavaScript
 * Bootstrap
 
-## Autor
+## Author
 
 * [Davi dos Santos (D.V)](https://github.com/davisabtos)
 
-## Futuras Adições
-* **Melhoria de Design:** Melhoria no design da página para tornar-a mais atraente e intuitiva.
-* **Novos Projetos:** Adicionar novos projetos desenvolvidos.
+## Future Additions
+* **Design Improvement:** Improved page design to make it more attractive and intuitive.
+* **New Projects:** Add new developed projects.
+
